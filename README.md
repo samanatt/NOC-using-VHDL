@@ -3,3 +3,4 @@
 NoC system. You will work in a practical FPGA design 
 environment using Quartus-II from Intel and Modelsim. 
 
+![Uploading 1.PNG…]()
